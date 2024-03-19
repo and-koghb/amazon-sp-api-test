@@ -1,0 +1,8 @@
+/.idea
+/.vscode
+/nbproject
+
+/config/*.local.php
+
+/node_modules
+/vendor
